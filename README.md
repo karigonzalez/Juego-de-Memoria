@@ -31,3 +31,5 @@ Juego-de-Memoria/
 │   └── style.css       # Estilos, animaciones y diseño del tablero
 └── js/
     └── script.js       # Lógica del juego y gestión de eventos
+
+Visita el juego: https://karigonzalez.github.io/Juego-de-Memoria/
