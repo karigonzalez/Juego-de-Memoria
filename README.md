@@ -19,6 +19,7 @@ Un clásico juego de memoria interactivo desarrollado con **HTML5**, **CSS3** y 
 * **CSS3:** Diseño con Grid, Flexbox y transformaciones 3D (`transform-style: preserve-3d`).
 * **JavaScript (ES6+):** Lógica del juego, manejo del DOM, eventos de clic y control de estados (bloqueo de tablero, comparación de parejas y detección de victoria).
 
+Visita el juego: https://karigonzalez.github.io/Juego-de-Memoria/
 ---
 
 ## 📁 Estructura del Proyecto
@@ -32,4 +33,4 @@ Juego-de-Memoria/
 └── js/
     └── script.js       # Lógica del juego y gestión de eventos
 
-Visita el juego: https://karigonzalez.github.io/Juego-de-Memoria/
+
